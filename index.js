@@ -110,6 +110,7 @@ Practica integradora: fs + express
 
 /*
 Práctica:
+Realizar los siguientes endpoints:
     GET /mentors
     GET /mentors/:id
     POST /mentors
